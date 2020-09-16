@@ -1,0 +1,19 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@shelf/jest-mongodb": "^1.2.3",
+    "bcrypt": "^5.0.0",
+    "express": "^4.17.1",
+    "jest": "^26.4.2",
+    "mongodb": "^3.5.9",
+    "pug": "^3.0.0"
+  }
+}
